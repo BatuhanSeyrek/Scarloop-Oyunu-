@@ -1,0 +1,4 @@
+repository "Scarloop/Scarloop@18968354773086@cloud"
+  path "/"
+    br "/main"
+    co "/main"
